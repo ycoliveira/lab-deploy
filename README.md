@@ -28,5 +28,5 @@ The web application deployed using Google Cloud Run can be accessed using the ad
 
 For example:
 ```sh
-https://lab-cloud-run-7s5babtwoa-uc.a.run.app/01153000
+https://lab-cloud-run-7s5babtwoa-uc.a.run.app/22790880
 ```
